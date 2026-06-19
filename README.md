@@ -29,7 +29,7 @@ Desarrollo de una arquitectura de agentes "desde cero" utilizando **LangChain** 
 
 *   **Lenguaje:** Python
 *   **IA/ML:** LangChain, Hugging Face (Transformers), Word2Vec, OpenAI/Google Models.
-*   **Estado & Orquestación:** LangGraph, Custom State Management.
+*   **Agent & Orquestación:** LangGraph, Custom State Management.
 *   **Análisis de Datos:** JSON-based datasets, Pandas.
 
 ## 📁 Estructura del Proyecto
