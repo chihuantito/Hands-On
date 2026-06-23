@@ -1,3 +1,14 @@
+Create enviroment
+conda create --prefix "E:\Data Users\miniconda3\wayki_voice" python=3.12
+conda activate "E:\Data Users\miniconda3\wayki_voice"
+
+Config local:
+ssh-keygen -t ed25519 -C "jchihuan@gmail.com"
+vi config -> C:\Users\micha\.ssh
+copy ssh to Setting -> SSH keys
+git remote set-url origin git@github-jchihuan:chihuantito/Hands-On.git
+
+
 git add .
 git commit -m "Add Agents"
 git push origin main
